@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../C Tutorial"
+		},
+		{
+			"path": "../c++ tutorial"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"WHILE.C": "cpp",
+			"iostream": "cpp",
+			"algorithm": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
+}
